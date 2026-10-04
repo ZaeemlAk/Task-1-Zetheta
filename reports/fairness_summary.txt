@@ -1,0 +1,8 @@
+Synthetic credit audit summary
+===========================
+rows: 5000
+columns: 23
+approval_rate_overall: 0.712
+default_rate_among_approved: 0.0093
+approval_rate_female: 0.7749
+approval_rate_male: 0.6324

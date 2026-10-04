@@ -1,0 +1,17 @@
+Synthetic Indian Credit Dataset Validation Report
+=============================================
+
+Rows: 50000
+Columns: 27
+Missing values: 0
+Duplicate rows: 0
+Gender counts: {'Female': 25862, 'Male': 24138}
+City tier counts: {'Tier 3': 20410, 'Tier 2': 15755, 'Tier 1': 13835}
+Rural share: 0.3087
+Young rural female share: 0.0646
+Credit decision rate: 0.5004
+Actual default rate: 0.1479
+Average annual income: 48114.10
+Average credit score: 628.57
+
+Status: PASS - output meets the requested 50,000-row synthetic dataset specification.

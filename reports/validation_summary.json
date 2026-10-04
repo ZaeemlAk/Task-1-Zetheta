@@ -1,0 +1,21 @@
+{
+  "rows": 50000,
+  "columns": 27,
+  "missing_values": 0,
+  "duplicate_rows": 0,
+  "gender_counts": {
+    "Female": 25862,
+    "Male": 24138
+  },
+  "city_tier_counts": {
+    "Tier 3": 20410,
+    "Tier 2": 15755,
+    "Tier 1": 13835
+  },
+  "rural_share": 0.3087,
+  "young_rural_female_share": 0.0646,
+  "credit_decision_rate": 0.5004,
+  "default_rate": 0.1479,
+  "avg_annual_income": 48114.1,
+  "avg_credit_score": 628.57
+}
